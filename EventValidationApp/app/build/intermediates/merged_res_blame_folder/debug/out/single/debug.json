@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.eventvalidation.app-merged_res-31:/layout_activity_register.xml.flat",
+        "source": "com.example.eventvalidation.app-main-33:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.eventvalidation.app-merged_res-31:/layout_activity_detail.xml.flat",
+        "source": "com.example.eventvalidation.app-main-33:/layout/activity_detail.xml"
+    }
+]

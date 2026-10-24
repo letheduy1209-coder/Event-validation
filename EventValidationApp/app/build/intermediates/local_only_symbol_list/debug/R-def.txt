@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id btnBackToRegister
+id btnNavToDetailDirect
+id btnRegister
+id etClass
+id etEmail
+id etFullName
+id etPhone
+id etStudentId
+id rootView
+id tilClass
+id tilEmail
+id tilFullName
+id tilPhone
+id tilStudentId
+id tvDetailContent
+layout activity_detail
+layout activity_register
+string app_name
+style Theme.EventValidation
